@@ -1,6 +1,8 @@
 # Nodoj
 
-`npm install nodoj`
+```bash
+npm install nodoj
+```
 
 ```javascript
 import nodoj from 'nodoj'
