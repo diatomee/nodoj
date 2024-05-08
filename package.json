@@ -1,0 +1,27 @@
+{
+  "name": "nodoj",
+  "version": "1.0.0",
+  "description": "Library for easy DOM manipulation with JavaScript.",
+  "main": "nodoj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diatomee/nodoj.git"
+  },
+  "keywords": [
+    "dom",
+    "javascript",
+    "manipulation",
+    "library",
+    "frontend",
+    "web",
+    "browser",
+    "development",
+    "utility",
+    "framework"
+  ],
+  "author": "Diatomée",
+  "license": "ISC"
+}
