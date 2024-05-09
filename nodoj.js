@@ -69,4 +69,4 @@ const nodoj = {
 			: parent.insertBefore(fragment, ref || null)
 	}
 }
-export default nodoj // usage: import nodoj from modules/nodoj.js
+export default nodoj // usage: import nodoj from nodoj
