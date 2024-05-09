@@ -1,6 +1,6 @@
 {
   "name": "nodoj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for easy DOM manipulation with JavaScript.",
   "main": "nodoj.js",
   "scripts": {
